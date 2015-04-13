@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Contestar</item>
+        <item>Contestar a todos</item>
+        <item>Responder</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Texto diminuto</item>
+        <item>Texto pequeño</item>
+        <item>Texto normal</item>
+        <item>Texto grande</item>
+        <item>Texto enorme</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Reciente</item>
+        <item>Formato</item>
+        <item>Nombre</item>
+        <item>Remitente</item>
+        <item>Fecha</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistema</item>
+        <item>Usados frecuentemente</item>
+        <item>Todas las carpetas</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Más nuevo</item>
+        <item>Más viejo</item>
+        <item>Lista de conversación</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Mostrar solo archivos</item>
+        <item>Mostrar solo elminados</item>
+        <item>Mostrar archivos y eliminados</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Mostrar nuevas conversaciones después de eliminar</item>
+        <item>Mostrar viejas conversaciones después de eliminar</item>
+        <item>Mostrar lista de conversaciones después de eliminar</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Solo mostrar el archivo</item>
+        <item>Solo mostrar lo eliminado</item>
+        <item>Mostrar archivos y eliminados</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Dirección:</item>
+        <item>Teléfono:</item>
+        <item>Nombre:</item>
+        <item>Buzón:</item>
+        <item>Móvil:</item>
+        <item>Social:</item>
+        <item>Fax:</item>
+        <item>C.P:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Gracias</item>
+        <item>Sinceramente</item>
+        <item>Genial</item>
+        <item>Mensaje original</item>
+        <item>Auto envío</item>
+        <item>Desde atrás</item>
+        <item>Desde</item>
+        <item>Correo</item>
+        <item>Renuncia</item>
+        <item>Disclaimer</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Hecho</item>
+        <item>Sin conexión.</item>
+        <item>No es posible iniciar sesión.</item>
+        <item>Error de seguridad.</item>
+        <item>No se puede sincronizar.</item>
+        <item>Excepción del servidor</item>
+    </string-array>
+</resources>

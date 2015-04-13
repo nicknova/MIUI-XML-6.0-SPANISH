@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Backup completo</string>
+    <string name="restore_confirm_title">Restauración completa</string>
+    <string name="backup_confirm_text">"Un backup completo de todos sus datos a un ordenador de sobremesa conectado ha sido solicitado. ¿Desea continuar?
+
+Si usted no solicitó el respaldo, rechaze la operación."</string>
+    <string name="allow_backup_button_label">Crear backup de mis datos</string>
+    <string name="deny_backup_button_label">No crear backup</string>
+    <string name="restore_confirm_text">"Una restauración completa de todos sus datos desde un ordenador de sobremesa conectado ha sido solicitada. ¿Desea continuar?
+
+Si usted no solicitó la restauración, rechaze la operación"</string>
+    <string name="allow_restore_button_label">Restaurar mis datos</string>
+    <string name="deny_restore_button_label">No restaurar</string>
+    <string name="current_password_text">Por favor introduzca su contraseña del backup actual:</string>
+    <string name="device_encryption_restore_text">Por favor introduzca su contraseña de encriptación</string>
+    <string name="device_encryption_backup_text">Por favor introduzca su contraseña de encriptación. Sus datos seran encriptados</string>
+    <string name="backup_enc_password_text">Por favor introduzca su contraseña para encriptar el respaldo de sus datos. Si no la introduce, se usará su contraseña de respaldo actual</string>
+    <string name="backup_enc_password_optional">Si desea encriptar el backup de sus datos, introduzca una contraseña:</string>
+    <string name="restore_enc_password_text">Si su datos estan encriptados, por favor introduzca la contraseña:</string>
+    <string name="toast_backup_started">Iniciado backup...</string>
+    <string name="toast_backup_ended">Backup finalizado</string>
+    <string name="toast_restore_started">Restauración iniciada...</string>
+    <string name="toast_restore_ended">Restauración completada</string>
+    <string name="toast_timeout">Operación fuera de tiempo</string>
+</resources>

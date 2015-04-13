@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d sin leer</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">¿Archivar estas %1$d conversaciones?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">¿Eliminar estas %1$d conversaciones?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Estas conversaciones se han fusionado. ¿Eliminarlas igualmente?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">¿Descartar borradores de estas %1$d conversaciones?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d seleccionado</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">%1$d archivados.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">%1$d eliminados.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Carpetas cambiadas.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">%1$d silenciadas</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">%1$d mensajes eliminados de la carpeta Importante</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">%1$d eliminados de la carpeta Spam</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">%1$d mensajes reportados como Spam</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">%1$d marcados como Spam</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Desmarcados %1$d conversaciones</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Borradores</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d mensajes serán eliminados permanentemente.</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Mover %1$d conversaciones</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Mover mensajes</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Mostrar %1$d nuevos mensajes.</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d seleccionados</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d viejos mensajes</item>
+    </plurals>
+</resources>

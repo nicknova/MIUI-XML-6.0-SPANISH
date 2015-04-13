@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="caller_app">Solicitante: %1$s</string>
+    <string name="safe_guard_support">Soporte técnico ofrecido por %1$s</string>
+    <string name="safe_relative">Guardar permisos relativos</string>
+    <string name="privacy_relative">Permisos relativos privados</string>
+    <string name="other_relative">Otros permisos</string>
+    <string name="perm_notice">Alerta de seguridad</string>
+    <string name="trust_switch_dialog_msg">No le pedirá confirmación de ningún tipo de seguridad en las operaciones relacionadas con la privacidad de esta aplicación.</string>
+    <string name="auto_startup_dialog_msg">Esta app se iniciará automáticamente sin pedirle permiso.</string>
+    <string name="low_risk_perms">Permisos con riesgo-bajo</string>
+    <string name="high_risk_perms">Permisos con riesgo-alto</string>
+    <string name="perm_privacy_app_finish">OK</string>
+    <string name="perm_privacy_app_launch">Ejecutar</string>
+    <string name="perm_privacy_app_installed">App instalada</string>
+    <string name="perm_sysopt_boost_auto_start">Permisos de auto-arranque</string>
+    <string name="perm_sysopt_boost_auto_start_summary">La app se iniciará automáticamente.</string>
+    <string name="perm_privacy_app_trust">Pedir permiso</string>
+    <string name="perm_privacy_app_trust_summary">Notificarme cada vez que esta app intente acceder a otras partes del sistema</string>
+    <string name="perm_action_accept">Permitir</string>
+    <string name="perm_action_prompt">Preguntar</string>
+    <string name="perm_action_reject">Denegar</string>
+    <string name="unknown_installer">Herramientas del PC no identificadas</string>
+    <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) reemplazará a la versión actual (%3$s). Todos los datos existentes serán guardados.</string>
+    <string name="lift_ban">Permitir</string>
+    <string name="uninstall_confirm_question">¿Desinstalar esta app?</string>
+    <string name="uninstall_failed_retained_app_msg">Esta app ha sido modificada y no mpuede desinstalarse en su forma actual.</string>
+    <string name="install_failed_system_incompatible">Esta app no es comparible con el sistema MIUI</string>
+    <string name="permission_group_title_charges_related">Teléfono</string>
+    <string name="permission_group_title_privacy_related">Privacidad</string>
+    <string name="permission_group_title_media_related">Multimedia</string>
+    <string name="permission_group_title_settings_related">Ajustes</string>
+    <string name="permission_group_title_others">Otros</string>
+    <string name="permission_action_accept">Aceptar</string>
+    <string name="permission_action_prompt">Preguntar</string>
+    <string name="permission_action_reject">Denegar</string>
+    <string name="permission_send_sms_descx">La app puede enviar SMS y MMS</string>
+    <string name="virus_scan_install"><u>Continuar con la instalación</u></string>
+    <string name="virus_scan_is_virus">Esta app contiene un virus.</string>
+    <string name="virus_scan_is_risk">App de riesgo, no continuar con la instalación.</string>
+    <string name="virus_scan_clear">Eliminiar</string>
+    <string name="virus_scan_caller_unknown">Desconocido</string>
+    <string name="app_name">Instalador de paquetes</string>
+    <string name="install">Instalar</string>
+    <string name="done">Hecho</string>
+    <string name="security_settings_desc">Permitir a esta aplicación:</string>
+    <string name="cancel">Cancelar</string>
+    <string name="unknown">Desconocida</string>
+    <string name="installing">Instalando…</string>
+    <string name="install_done">Aplicación instalada</string>
+    <string name="install_confirm_question">¿Quiere instalar esta aplicación?</string>
+    <string name="install_failed">La aplicación no está instalada</string>
+    <string name="install_failed_invalid_apk">El paquete parece estar corrupto.</string>
+    <string name="install_failed_inconsistent_certificates">Un paquete con el mismo nombre ya esta instalado.</string>
+    <string name="install_failed_older_sdk">El paquete sólo funciona en versiones más recientes de Android.</string>
+    <string name="install_failed_cpu_abi_incompatible">La app no es compatible con la CPU de este dispositivo.</string>
+    <string name="install_failed_file_not_found">El paquete especificado fue borrado antes de que la instalación fuera completada.</string>
+    <string name="install_failed_verify_failed">El paquete no ha pasado la verificación y no puede ser instalado.</string>
+    <string name="install_failed_verify_timeout">Ocurrió un error al tratar de verificar el paquete. Por favor trate de instalarlo de nuevo.</string>
+    <string name="install_failed_msg">No se ha podido instalar %1$s en este teléfono.</string>
+    <string name="launch">Abrir</string>
+    <string name="unknown_apps_dlg_title">Instalación bloqueada</string>
+    <string name="unknown_apps_dlg_text">Por motivos de seguridad, su teléfono se ha configurado para bloquear la instalación de apps que no se hayan obtenido de Android Market. Puede modificar esta configuracion en Ajustes > Seguridad y privacidad > Origenes desconocidos.</string>
+    <string name="ok">Aceptar</string>
+    <string name="settings">Configuración</string>
+    <string name="allow_source_dlg_title">¿Permitir una nueva fuente de apps?</string>
+    <string name="allow_source_dlg_text">"%1$s quiere instalar otras apps.
+
+Permitir esto ahora y en el futuro?"</string>
+    <string name="manage_applications">Administrar apps</string>
+    <string name="dlg_app_replacement_title">¿Reemplazar la app actual?</string>
+    <string name="dlg_app_replacement_statement">"La app que está instalado reemplazará a otra app.
+
+Todos los datos anteriores serán guardados."</string>
+    <string name="dlg_sys_app_replacement_statement">"Esta es una app del sistema. ¿Quiere reemplazarla?
+
+Todos los datos anteriores se guardarán."</string>
+    <string name="out_of_space_dlg_title">Sin espacio disponible</string>
+    <string name="out_of_space_dlg_text">No se ha podido instalar %1$s. Libere espacio e inténtelo de nuevo.</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">No se ha encontró la app</string>
+    <string name="app_not_found_dlg_text">No se ha encontró la app en la lista de aplicaciones instaladas.</string>
+    <string name="uninstall_application_title">Desinstalar app</string>
+    <string name="uninstall_update_title">Desinstalar actualización</string>
+    <string name="uninstall_activity_text">%1$s es parte de la siguiente app:</string>
+    <string name="uninstall_application_text">Esta app se desinstalará.</string>
+    <string name="uninstall_update_text">La actualización de la app se desinstalará. Aún puede utilizar la versión de fábrica de la aplicación.</string>
+    <string name="uninstalling">Desinstalando…</string>
+    <string name="uninstall_done">Desinstalación completada</string>
+    <string name="uninstall_failed">No se puede desinstalar esta app</string>
+    <string name="uninstall_failed_device_policy_manager">No es posible desinstalar: este paquete es parte des dispositivo del administrador.</string>
+    <string name="manage_device_administrators">Gestionar dispositivos del administrador</string>
+    <string name="uninstall_failed_msg">No se ha podido desinstalar %1$s</string>
+    <string name="Parse_error_dlg_title">Error de análisis</string>
+    <string name="Parse_error_dlg_text">Hubo un problema al analizar el archivo.</string>
+</resources>

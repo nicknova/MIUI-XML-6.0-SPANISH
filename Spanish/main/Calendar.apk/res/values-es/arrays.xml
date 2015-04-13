@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Notificación</item>
+        <item>Correo</item>
+        <item>SMS</item>
+        <item>Alarma</item>
+    </string-array>
+    <integer-array name="reminder_methods_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Ninguno</item>
+        <item>0 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>1 día</item>
+        <item>2 días</item>
+        <item>1 semana</item>
+    </string-array>
+    <integer-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Ninguno</item>
+        <item>0 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>1 día</item>
+        <item>2 días</item>
+        <item>1 semana</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Predeterminada</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
+        <item>Lunes</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_values">
+        <item>-1</item>
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Islas Marshall</item>
+        <item>Islas Midway</item>
+        <item>Hawái</item>
+        <item>Alaska</item>
+        <item>Hora Pacífico</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Hora de Montañas</item>
+        <item>Centroamérica</item>
+        <item>Hora Central</item>
+        <item>Ciudad de México</item>
+        <item>Saskatchewan</item>
+        <item>Bogotá</item>
+        <item>Hora del Este</item>
+        <item>Venezuela</item>
+        <item>Hora del Atlántico (Barbados)</item>
+        <item>Hora del Atlántico (Canadá)</item>
+        <item>Manaos</item>
+        <item>Santiago</item>
+        <item>Terranova</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Groenlandia</item>
+        <item>Montevideo</item>
+        <item>Atlántico Medio</item>
+        <item>Azores</item>
+        <item>Islas de Cabo Verde</item>
+        <item>Casablanca</item>
+        <item>Londres, Dublín</item>
+        <item>Ámsterdam, Berlín</item>
+        <item>Belgrado</item>
+        <item>Bruselas</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Hora África Occidental</item>
+        <item>Ammán, Jordania</item>
+        <item>Atenas, Estambul</item>
+        <item>Beirut, Líbano</item>
+        <item>El Cairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalén</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moscú</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teherán</item>
+        <item>Bakú</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubái</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>Oral</item>
+        <item>Ekaterimburgo</item>
+        <item>Calcuta</item>
+        <item>Sri Lanka</item>
+        <item>Katmandú</item>
+        <item>Astaná</item>
+        <item>Rangún</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Pekín</item>
+        <item>Hong Kong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipéi</item>
+        <item>Seúl</item>
+        <item>Tokio, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaida</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadán</item>
+        <item>Auckland</item>
+        <item>Fiyi</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="timezone_values">
+        <item>Pacific/Majuro</item>
+        <item>Pacific/Midway</item>
+        <item>Pacific/Honolulu</item>
+        <item>America/Anchorage</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Tijuana</item>
+        <item>America/Phoenix</item>
+        <item>America/Chihuahua</item>
+        <item>America/Denver</item>
+        <item>America/Costa_Rica</item>
+        <item>America/Chicago</item>
+        <item>America/Mexico_City</item>
+        <item>America/Regina</item>
+        <item>America/Bogota</item>
+        <item>America/New_York</item>
+        <item>America/Caracas</item>
+        <item>America/Barbados</item>
+        <item>America/Halifax</item>
+        <item>America/Manaus</item>
+        <item>America/Santiago</item>
+        <item>America/St_Johns</item>
+        <item>America/Sao_Paulo</item>
+        <item>America/Argentina/Buenos_Aires</item>
+        <item>America/Godthab</item>
+        <item>America/Montevideo</item>
+        <item>Atlantic/South_Georgia</item>
+        <item>Atlantic/Azores</item>
+        <item>Atlantic/Cape_Verde</item>
+        <item>Africa/Casablanca</item>
+        <item>Europe/London</item>
+        <item>Europe/Amsterdam</item>
+        <item>Europe/Belgrade</item>
+        <item>Europe/Brussels</item>
+        <item>Europe/Sarajevo</item>
+        <item>Africa/Windhoek</item>
+        <item>Africa/Brazzaville</item>
+        <item>Asia/Amman</item>
+        <item>Europe/Athens</item>
+        <item>Asia/Beirut</item>
+        <item>Africa/Cairo</item>
+        <item>Europe/Helsinki</item>
+        <item>Asia/Jerusalem</item>
+        <item>Europe/Minsk</item>
+        <item>Africa/Harare</item>
+        <item>Asia/Baghdad</item>
+        <item>Europe/Moscow</item>
+        <item>Asia/Kuwait</item>
+        <item>Africa/Nairobi</item>
+        <item>Asia/Tehran</item>
+        <item>Asia/Baku</item>
+        <item>Asia/Tbilisi</item>
+        <item>Asia/Yerevan</item>
+        <item>Asia/Dubai</item>
+        <item>Asia/Kabul</item>
+        <item>Asia/Karachi</item>
+        <item>Asia/Oral</item>
+        <item>Asia/Yekaterinburg</item>
+        <item>Asia/Calcutta</item>
+        <item>Asia/Colombo</item>
+        <item>Asia/Katmandu</item>
+        <item>Asia/Almaty</item>
+        <item>Asia/Rangoon</item>
+        <item>Asia/Krasnoyarsk</item>
+        <item>Asia/Bangkok</item>
+        <item>Asia/Shanghai</item>
+        <item>Asia/Hong_Kong</item>
+        <item>Asia/Irkutsk</item>
+        <item>Asia/Kuala_Lumpur</item>
+        <item>Australia/Perth</item>
+        <item>Asia/Taipei</item>
+        <item>Asia/Seoul</item>
+        <item>Asia/Tokyo</item>
+        <item>Asia/Yakutsk</item>
+        <item>Australia/Adelaide</item>
+        <item>Australia/Darwin</item>
+        <item>Australia/Brisbane</item>
+        <item>Australia/Hobart</item>
+        <item>Australia/Sydney</item>
+        <item>Asia/Vladivostok</item>
+        <item>Pacific/Guam</item>
+        <item>Asia/Magadan</item>
+        <item>Pacific/Auckland</item>
+        <item>Pacific/Fiji</item>
+        <item>Pacific/Tongatapu</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Ocupado</item>
+        <item>Disponible</item>
+        <item>Provisional</item>
+    </string-array>
+    <integer-array name="availability_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="visibility">
+        <item>Predeterminado</item>
+        <item>Privado</item>
+        <item>Público</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>primero</item>
+        <item>segundo</item>
+        <item>tercero</item>
+        <item>cuarto</item>
+        <item>último</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Sin respuesta</item>
+        <item>Sí</item>
+        <item>Quizás</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Sólo este evento</item>
+        <item>Este y futuros eventos</item>
+        <item>Todos los eventos</item>
+    </string-array>
+    <integer-array name="delete_repeating_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Esto y eventos futuros</item>
+        <item>Todos los eventos</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Sólo este evento</item>
+        <item>Todos los eventos</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Día</item>
+        <item>Semana</item>
+        <item>Mes</item>
+        <item>Agenda</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Con unos minutos de retraso.</item>
+        <item>Estaré ahí en 10 minutos.</item>
+        <item>Id y empezad sin mi.</item>
+        <item>Lo siento, no podré. Volveremos a quedar.</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Siempre</item>
+        <item>Sólo en silencio</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="prefValues_alerts_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Negro transparente</item>
+        <item>Fondo blanco</item>
+    </string-array>
+    <integer-array name="online_reminder_minutes_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
+    <integer-array name="online_reminder_minutes_values_allday">
+        <item>0</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>4320</item>
+        <item>10080</item>
+    </integer-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>día</item>
+        <item>semana</item>
+        <item>mes</item>
+        <item>año</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1º</item>
+        <item>2º</item>
+        <item>3º</item>
+        <item>4º</item>
+        <item>5º</item>
+        <item>6º</item>
+        <item>7º</item>
+        <item>8º</item>
+        <item>9º</item>
+        <item>10º</item>
+        <item>11º</item>
+        <item>12º</item>
+        <item>13º</item>
+        <item>14º</item>
+        <item>15º</item>
+        <item>16º</item>
+        <item>17º</item>
+        <item>18º</item>
+        <item>19º</item>
+        <item>20º</item>
+        <item>21º</item>
+        <item>22º</item>
+        <item>23º</item>
+        <item>24º</item>
+        <item>25º</item>
+        <item>26º</item>
+        <item>27º</item>
+        <item>28º</item>
+        <item>29º</item>
+        <item>30º</item>
+        <item>31º</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mié</item>
+        <item>Jue</item>
+        <item>Vie</item>
+        <item>Sáb</item>
+        <item>Dom</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Ene</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Abr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Ago</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dic</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>primero</item>
+        <item>segundo</item>
+        <item>tercero</item>
+        <item>cuarto</item>
+        <item>último</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Lun - Vie</item>
+        <item>Fin de semana</item>
+        <item>Toda la semana</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Nunca</item>
+        <item>Fecha</item>
+        <item>Cuenta</item>
+    </string-array>
+    <array name="account_birthday">
+        <item>#ffe99080</item>
+        <item>#b3d5a198</item>
+        <item>#fffcefef</item>
+        <item>#ffce7e6f</item>
+    </array>
+    <array name="account_xiaomi">
+        <item>#ff31aeaa</item>
+        <item>#b355c3bf</item>
+        <item>#ffe9f5f5</item>
+        <item>#ff349a97</item>
+    </array>
+    <array name="account_preset1">
+        <item>#ff64bce1</item>
+        <item>#b33aadd2</item>
+        <item>#ffe2f5fb</item>
+        <item>#ff5bb5db</item>
+    </array>
+    <array name="account_preset2">
+        <item>#ff88c984</item>
+        <item>#b37dc07a</item>
+        <item>#fff1faf1</item>
+        <item>#ff91c58e</item>
+    </array>
+    <array name="account_preset3">
+        <item>#ffb69dd0</item>
+        <item>#b3bfa5db</item>
+        <item>#fff6f1fa</item>
+        <item>#ffa894be</item>
+    </array>
+    <array name="account_preset4">
+        <item>#fff0a16f</item>
+        <item>#b3d88c5b</item>
+        <item>#fffdf3ec</item>
+        <item>#ffe4884d</item>
+    </array>
+</resources>

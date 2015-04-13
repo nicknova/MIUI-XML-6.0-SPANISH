@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%d canciones encontradas</item>
+        <item quantity="one">%d canción encontrada</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d días restantes</item>
+        <item quantity="one">%d día restante</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d más canciones serán descargadas</item>
+        <item quantity="one">Se descargará una canción</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d nuevos</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d canciones</item>
+        <item quantity="one">%d canción</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d canciones similares</item>
+        <item quantity="one">%d canción similar</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d canciones añadidas al playlist</item>
+        <item quantity="one">1 canción añadida al playlist</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d canciones eliminadas del playlist</item>
+        <item quantity="one">1 canción eliminada del playlist</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d canciones</item>
+        <item quantity="one">1 canción</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d canciones serán enviadast</item>
+        <item quantity="one">1 canción será enviada</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d canciones</item>
+        <item quantity="one">1 canción</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d canciones añadidas</item>
+        <item quantity="one">%d canción añadida</item>
+    </plurals>
+</resources>

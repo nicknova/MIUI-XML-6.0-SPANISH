@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Proveedor Clima</string>
+    <string name="aqi_quality_index_pure" />
+    <string name="aqi_quality_index_good" />
+    <string name="aqi_quality_index_moderate" />
+    <string name="aqi_quality_index_light_pollution" />
+    <string name="aqi_quality_index_unhealthy" />
+    <string name="aqi_quality_index_dangerous" />
+    <string name="aqi_quality_index_hazardous" />
+    <string name="aqi_quality_index_break" />
+    <string name="view_indexes_wind_unit">km/h</string>
+</resources>

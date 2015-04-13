@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="movie_channel_tabs">
+        <item>Recomendadas</item>
+        <item>Por ranking</item>
+        <item>Hot</item>
+        <item>Más recientes</item>
+    </string-array>
+    <string-array name="variety_channel_tabs">
+        <item>Recomendados</item>
+        <item>Recientes</item>
+    </string-array>
+    <string-array name="channel_tabs">
+        <item>Caliente</item>
+        <item>Rank</item>
+        <item>Más reciente</item>
+    </string-array>
+</resources>

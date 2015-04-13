@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_insufficient_space_on_external">No queda espacio en el almacenamiento externo</string>
+    <string name="dialog_insufficient_space_on_cache">No queda espacio en el almacenamiento interno</string>
+    <string name="auto_restart_under_wifi">Descargará el archivo automáticamente con conexión Wi-Fi</string>
+    <string name="task_already_exist">La tarea ya existe</string>
+    <string name="privacy_tip_title">¿Usar el acelerador Xunlei?</string>
+    <string name="privacy_tip_content">¿Quiere usar el acelerador Xunlei para agilizar las descargas? La dirección URL del host de la descarga será subida a los servidores de Xunlei. Los detalles de su Cuenta Mi también serán enviados para comprobar si tiene alguna suscripciones activas a este servicio.</string>
+    <string name="privacy_tip_cancel">Cancelar</string>
+    <string name="privacy_tip_ok">OK</string>
+    <string name="privacy_notif_title">El acelerador de descargas Xunlei está activado</string>
+    <string name="privacy_notif_content">Pulsar para ver los detalles.</string>
+    <string name="notif_text_engine_on">Acelerando…</string>
+    <string name="notif_text_engine_off">Acelererador Xunlei desactivado.</string>
+    <string name="notif_title_single_downloading">Descargando %1$s</string>
+    <string name="notif_title_multiple_downloading">Descargando %1$d archivos</string>
+    <string name="notif_title_file_size">%1$d archivos en total</string>
+    <string name="paused_waiting_for_network">Esperando por una red</string>
+    <string name="warning_tip_title">Aviso de uso de datos</string>
+    <string name="warning_tip_content">La conexión Wi-Fi se ha interrumpido, si continua usando su conexión de datos para realizar descargas podría causarle un gasto excesivo, le recomendamos que pause sus descargas.</string>
+    <string name="warning_tip_cancel">Cancelar</string>
+    <string name="warning_tip_ok">Aceptar</string>
+    <string name="dialog_not_show_again">不再提示</string>
+    <string name="app_label">Administrador de descargas</string>
+    <string name="permlab_downloadManager">Acceso al administrador de descargas.</string>
+    <string name="permdesc_downloadManager">Permite que la aplicación acceda al administrador de descargas y lo utilice para descargar archivos. Las aplicaciones malintencionadas pueden utilizar este permiso para provocar daños en las descargas y acceder a información privada.</string>
+    <string name="permlab_downloadManagerAdvanced">Funciones avanzadas del administrador de descargas.</string>
+    <string name="permdesc_downloadManagerAdvanced">Permite que la aplicación acceda a las funciones avanzadas del administrador de descargas. Las aplicaciones malintencionadas pueden utilizar este permiso para provocar daños en las descargas y acceder a información privada.</string>
+    <string name="permlab_downloadCompletedIntent">Envío de notificaciones de descarga.</string>
+    <string name="permdesc_downloadCompletedIntent">Permite que la aplicación envíe notificaciones sobre descargas completadas. Las aplicaciones malintencionadas pueden utilizar este permiso para confundir a otras aplicaciones que descarguen archivos.</string>
+    <string name="permlab_seeAllExternal">Ver todas las descargas en el almacenamiento USB</string>
+    <string name="permdesc_seeAllExternal">Permite que la aplicación vea todas las descargas en la tarjeta SD, independientemente de la aplicación que las haya descargado.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reservar espacio en caché de descargas</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Permite que la aplicación descargue archivos en la caché de descargas que no se pueden eliminar de forma automática cuando falta espacio en el administrador de descargas.</string>
+    <string name="permlab_downloadWithoutNotification">descargar archivos sin notificación</string>
+    <string name="permdesc_downloadWithoutNotification">Permite que la aplicación descargue archivos a través del administrador de descargas sin mostrar notificación al usuario.</string>
+    <string name="permlab_accessAllDownloads">Acceso a todas las descargas del sistema</string>
+    <string name="permdesc_accessAllDownloads">Permite que la aplicación vea y modifique todas las acciones iniciadas por cualquier aplicación del sistema.</string>
+    <string name="download_unknown_title">&lt;Sin título></string>
+    <string name="notification_download_complete">Descarga completada.</string>
+    <string name="notification_download_failed">Descarga incorrecta.</string>
+    <string name="notification_need_wifi_for_size">Tamaño de descarga requiere Wi-Fi.</string>
+    <string name="notification_paused_in_background">Descarga pausada.</string>
+    <string name="wifi_required_title">Descarga demasiado grande para red de operador</string>
+    <string name="wifi_required_body" formatted="false">"Para completar esta descarga de %s necesitará una conexión Wi-Fi.
+
+Haz clic en %s para iniciar la descarga la próxima vez que te conectes a una red Wi-Fi."</string>
+    <string name="wifi_recommended_title">¿Dejarlo pendiente para descargar más tarde?</string>
+    <string name="wifi_recommended_body" formatted="false">"Descargar esta descarga %s ahora podría hacerle gustar mucho de su plan de datos, aunque dependerá del plan que tenga contratado.
+
+ Pulse %s para inciar esta descarga la próxima vez que se vuelva a conectar por Wi-Fi."</string>
+    <string name="button_queue_for_wifi">Poner en cola</string>
+    <string name="button_cancel_download">Cancelar</string>
+    <string name="button_start_now">Empezar ahora</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">Falta %s</string>
+    <string name="download_no_application_title">No se puede abrir el archivo</string>
+    <string name="root_downloads">Descargas</string>
+    <string name="download_queued">Pendiente</string>
+    <string name="download_running">En progreso</string>
+    <string name="download_error">Error de descarga</string>
+    <string name="download_running_percent">En progreso, %d%%</string>
+</resources>

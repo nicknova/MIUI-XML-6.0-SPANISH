@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Bienvenido</string>
+    <string name="input_method_setting">Elija el método de introducción</string>
+    <string name="input_method_category">Elija el método de entrada predeterminado que utilizará al escribir texto en los correos electrónicos, notas, y en todas partes. Tenga en cuenta que después puede instalar los teclados de terceros.</string>
+    <string name="provision_inputmethod_policy_description">"
+Ver los teclados seleccionados "</string>
+    <string name="provision_inputmethod_policy_description1">Política de Privacidad</string>
+    <string name="multisim_settings_title">Detectado 2 tarjetas sim</string>
+    <string name="multisim_settings_category">Ajustes de sim preferida</string>
+    <string name="page_layout_title">Disposición del sistema</string>
+    <string name="page_layout_label">Ajustar tamaño del texto y el diseño de la pantalla de inicio, ventana de notificación, teclado y más.</string>
+    <string name="sim_card_detection">Tarjeta SIM no detectada</string>
+    <string name="sim_card_detection_info">Necesita una tarjeta SIM para iniciar sesión con su cuenta Mi.</string>
+    <string name="sim_card_detecting">Comprobando la tarjeta SIM…</string>
+    <string name="other_settings">Ajustes adicionales</string>
+    <string name="other_settings_location">Ubicación</string>
+    <string name="other_settings_location_summary">Permitir que las apps ubiquen mi posición</string>
+    <string name="other_settings_user_experience">Comentarios</string>
+    <string name="other_settings_user_experience_summary">Enviar mensajes anónimos a MIUI para mejorar (%s)</string>
+    <string name="other_settings_user_experience_summary1">Política de Privacidad</string>
+    <string name="next">Siguiente</string>
+    <string name="sim_dectection_next">Continuar</string>
+    <string name="shut_down">Apagar</string>
+    <string name="sim_redetection">Comprobar denuevo</string>
+    <string name="title_congratulation">¡Ya está lista su MIUI6!</string>
+    <string name="congratulation_label" />
+    <string name="pref_title_voice_slot">Tarjeta SIM de voz preferida</string>
+    <string name="pref_title_data_slot">Tarjeta SIM de datos preferido</string>
+    <string name="summary_not_set">No configurada</string>
+    <string name="summary_sim_card">Tarjeta %1$d%2$s</string>
+    <string name="summary_sim_card_with_operator">Card %1$d: %2$s</string>
+    <string name="ime_privacy_policy">Política de Privacidad del teclado seleccionado</string>
+    <string name="ime_privacy_policy_no_network">No se puedo conectar a Internet. Vea la Política de Privacidad de este teclado desde %s</string>
+    <string name="terms_of_use">Términos del Servicio</string>
+    <string name="terms_of_use_label">"Su privacidad es muy importante para nosotros. Por favor, lea nuestros Términos de Servicio y Política de Privacidad para entender qué información recopilamos, cómo la utilizamos y qué opciones están disponibles para usted.
+
+Usted debe estar de acuerdo con nuestros Términos de Servicio y Política de Privacidad antes de poder utilizar MIUI."</string>
+    <string name="user_agreement">Acuerdo del Usuario</string>
+    <string name="privacy_policy">Política de Privacidad</string>
+    <string name="agree">De acuerdo</string>
+    <string name="disagree">Cancelar</string>
+    <string name="network_access_warning">Necesita estar conectado a internet para activar los servicios Mi.</string>
+    <string name="setting_locale">Ajustando zona…</string>
+    <string name="miui_terms_no_network">No tiene conexión de internet. Vea los Terminos del Servicios en %s</string>
+    <string name="miui_privacy_policy_no_network">No tiene conexión de internet. Vea la Política de Privacidad en %s</string>
+    <string name="locale_picker_title">Escoja su ubicación</string>
+    <string name="provision_finish">OK</string>
+    <string name="provision_finish_restart">Reiniciar</string>
+    <string name="install_preinstall_app">Cargando apps…</string>
+</resources>

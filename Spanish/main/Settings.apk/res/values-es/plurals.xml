@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Está a %1$d pasos de ser un desarrollador.</item>
+        <item quantity="one">Ahora está a %1$d de convertirte en un desarrollador.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">La contraseña debe tener al menos %d letras.</item>
+        <item quantity="one">La contraseña debe tener al menos una letra.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">La contraseña debe tener al menos %d letras minúsculas.</item>
+        <item quantity="one">La contraseña debe tener al menos 1 letra minúscula.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">La contraseña debe tener al menos %d letras mayúsculas.</item>
+        <item quantity="one">La contraseña debe tener al menos 1 letra mayúscula.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">La contraseña debe tener al menos %d dígitos.</item>
+        <item quantity="one">La contraseña debe tener al menos 1 dígito.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">La contraseña debe tener al menos %d símbolos especiales.</item>
+        <item quantity="one">La contraseña debe tener al menos 1 símbolo especial.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">La contraseña debe tener al menos %d caracteres no alfabéticos.</item>
+        <item quantity="one">La contraseña debe tener al menos 1 carácter no alfabético.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d apps pueden leer notificaciones</item>
+        <item quantity="one">%d app puede leer notificaciones</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Código PIN incorrecto, le quedan %d intentos restantes.</item>
+        <item quantity="one">Código PIN incorrecto, ha gastado los %d intentos restantes y deberá contactar con su proveedor para poder desbloquear el dispositivo.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s impresoras encontradas</item>
+        <item quantity="one">%1$s impresora encontrada</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Está a %1$d pasos de acceder a la info de su dispositivo.</item>
+        <item quantity="one">Está a %1$d pasos de acceder a la info de su dispositivo.</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">Está a %1$d pasos de acceder a la info cit.</item>
+        <item quantity="one">Está a %1$d pasos de acceder a la info cit.</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Está a %1$d pasos de reportar errores.</item>
+        <item quantity="one">Está a %1$d pasos de reportar errores.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Sin conexión de datos durante %s minutos</item>
+        <item quantity="one">Sin conexión de datos por %s minutos</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">El teléfono estará en el modo de devolución de llamada de emergencia durante %s minutos. Mientras que en este modo no hay aplicaciones que utilizan una conexión de datos pueden ser utilizados. ¿Quiere salir ahora?</item>
+        <item quantity="one">El teléfono estará en el modo de devolución de llamada de emergencia durante %s minutos. Mientras que en este modo no hay aplicaciones utilizando una conexión de datos pueden ser utilizados. ¿Quiere salir ahora?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">La acción seleccionada no está disponible en el modo de devolución de llamada de emergencia. El teléfono estará en este modo durante %s minutos. ¿Quiere salir ahora?</item>
+        <item quantity="one">La acción seleccionada no está disponible en el modo de devolución de llamada de emergencia. El teléfono estará en este modo durante %s minutos. ¿Quiere salir ahora?</item>
+    </plurals>
+</resources>

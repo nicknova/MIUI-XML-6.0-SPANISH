@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Eliminar %1$d archivos</item>
+        <item quantity="zero">Eliminar %1$d archivos</item>
+        <item quantity="one">Eliminar %1$d archivo</item>
+        <item quantity="two">Eliminar %1$d archivos</item>
+        <item quantity="few">Eliminar %1$d archivos</item>
+        <item quantity="many">Delete %1$d archivos</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" y %1$d carpetas?"</item>
+        <item quantity="zero">" y %1$d carpetas?"</item>
+        <item quantity="one">" y %1$d carpeta?"</item>
+        <item quantity="two">" y %1$d carpetas?"</item>
+        <item quantity="few">" y %1$d carpetas?"</item>
+        <item quantity="many">" y %1$d carpetas?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d ítems</item>
+        <item quantity="zero">%d ítems</item>
+        <item quantity="one">%d ítem</item>
+        <item quantity="two">%d ítems</item>
+        <item quantity="few">%d ítems</item>
+        <item quantity="many">%d ítems</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">Faltan %1$d archivos por descargar</item>
+        <item quantity="zero">Faltan %1$d archivos por descargar</item>
+        <item quantity="one">Falta %1$d archivo por descargar</item>
+        <item quantity="two">Faltan %1$d archivos por descargar</item>
+        <item quantity="few">Faltan %1$d archivos por descargar</item>
+        <item quantity="many">Faltan %1$d archivos por descargar</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">Faltan %1$d archivos por subir</item>
+        <item quantity="zero">Faltan %1$d archivos por subir</item>
+        <item quantity="one">Falta %1$d archivo por subir</item>
+        <item quantity="two">Faltan %1$d archivos por subir</item>
+        <item quantity="few">Faltan %1$d archivos por subir</item>
+        <item quantity="many">Faltan %1$d archivos por subir</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d seleccionados</item>
+        <item quantity="zero">%1$d seleccionados</item>
+        <item quantity="one">%1$d seleccionado</item>
+        <item quantity="two">%1$d seleccionados</item>
+        <item quantity="few">%1$d seleccionados</item>
+        <item quantity="many">%1$d seleccionados</item>
+    </plurals>
+</resources>

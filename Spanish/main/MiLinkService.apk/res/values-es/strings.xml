@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_pkg_name">com.milink.service</string>
+    <string name="app_ver_code">1</string>
+    <string name="app_ver_name">1.0</string>
+    <string name="app_name">Servicio UniPlay</string>
+    <string name="service_name">Servicio UniPlay</string>
+    <string name="notification_rc_title">Control remoto Mi</string>
+    <string name="notification_rc_desc">Usted puede usar el control remoto Mi para controlar su Mi Box y su Tv</string>
+</resources>
